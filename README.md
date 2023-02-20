@@ -1,9 +1,7 @@
 ![](OSCP-Simran.png)
 ### OSCP Exam now has some major changes .... Those are -
 
-![OSCP](OSCP-NEW.png)
-
-
+![OSCP](new-rules.png)
 
 **OSCP Notes**
 
