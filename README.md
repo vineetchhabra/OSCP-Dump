@@ -1,4 +1,4 @@
-![](https://images.credly.com/images/e3c9ad3c-b142-45ae-bb2b-2f19ff2b742a/PWK-OSCP-badge.png)
+![](OSCP-Simran.png)
 ### OSCP Exam now has some major changes .... Those are -
 
 ![OSCP](OSCP-NEW.png)
