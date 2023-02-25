@@ -2,7 +2,8 @@
 
 ### OSCP Exam now has some major changes .... Those are -
 
-![OSCP](new-rules.png)
+
+<img src="https://raw.githubusercontent.com/simran-sankhala/OSCP-Dump/main/new-rules.png" width="450" height="380">
 
 **OSCP Notes**
 
