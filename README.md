@@ -1,4 +1,4 @@
-![](OSCP-Simran.png)
+![](OSCP-Simran.png =250x250)
 ### OSCP Exam now has some major changes .... Those are -
 
 ![OSCP](new-rules.png)
