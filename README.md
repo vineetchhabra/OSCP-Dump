@@ -1,4 +1,4 @@
-![](OSCP-Simran.png)
+<img src="https://raw.githubusercontent.com/simran-sankhala/OSCP-Dump/main/OSCP-Simran.png" width="100" height="100">
 ### OSCP Exam now has some major changes .... Those are -
 
 ![OSCP](new-rules.png)
